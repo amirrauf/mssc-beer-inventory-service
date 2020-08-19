@@ -2,6 +2,7 @@ package guru.sfg.brewery.model.events;
 
 import java.io.Serializable;
 
+import guru.sfg.brewery.model.BeerDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
